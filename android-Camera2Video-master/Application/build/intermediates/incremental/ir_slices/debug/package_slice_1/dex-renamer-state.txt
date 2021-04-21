@@ -1,0 +1,4 @@
+#Fri Jun 12 14:53:10 CST 2020
+base.0=/Users/meteoritek/Desktop/campus_parking/android-Camera2Video-master 2/Application/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
